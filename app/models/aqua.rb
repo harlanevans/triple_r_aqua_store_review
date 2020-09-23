@@ -1,0 +1,2 @@
+class Aqua < ApplicationRecord
+end
